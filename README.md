@@ -1,2 +1,2 @@
 # ml04_week2_faceemotion
-ML04 FaceEmotion Repo
+Repo to deploy pre-trained emotion detection algorithm through AWS lambda through SAM CLI. 
